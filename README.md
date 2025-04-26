@@ -5,7 +5,7 @@
 - 💻 I mostly code with Django and enjoy building web applications
 - 💞️ I'm looking to collaborate on AI projects and Django-based applications
 - 📫 How to reach me: [Bamseckpaulins@gmail.com]
-- 😄 Pronouns: [paulins]
+- 😄 name: [pauline]
 - ⚡ Fun fact: I have many hobbies that keep me busy outside of coding!
 
 <!---
